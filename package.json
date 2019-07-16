@@ -1,0 +1,24 @@
+{
+  "name": "prueba",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dracon11/Prueba.git"
+  },
+  "author": "Brando Vidal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dracon11/Prueba/issues"
+  },
+  "homepage": "https://github.com/Dracon11/Prueba#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
